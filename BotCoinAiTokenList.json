@@ -1,0 +1,15 @@
+{
+  "name": "BotCoinAi Token List",
+  "timestamp": "2025-12-19T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x800c1e8144639e186ECBDB834D93797956287107",
+      "name": "BotCoinAi",
+      "symbol": "BOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Mobin00110/BotCoinAiAssets/logo.png"
+    }
+  ]
+}
